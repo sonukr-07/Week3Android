@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Week2Android</string>
+    <string name="btnName">Set Image</string>
 </resources>
